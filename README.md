@@ -35,5 +35,3 @@ You can install them using pip:
 ```bash
 pip install torch opencv-python torchvision numpy imutils pytesseract easyocr torchvision matplotlib
 ```
-
-## Results
